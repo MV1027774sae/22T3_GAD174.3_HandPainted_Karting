@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Karting/Scenes/IntroMenu.unity
     guid: d29260d8d84c94bd7ac95807b3da99d4
   - enabled: 1
+    path: Assets/174.3 Group Work/New Main Scene.unity
+    guid: cc94734a18c953a4a85fea85d4772ce1
+  - enabled: 1
     path: Assets/Karting/Scenes/MainScene.unity
     guid: 92786e23da2af4a4f8803aaf44c47121
   - enabled: 1
